@@ -8,7 +8,6 @@ async function getData() {
 }
 
 type Pizza = {
- category: string;
  id: string;
  name: string;
  showcase: string;
@@ -29,7 +28,7 @@ type PanPizza = {
  isVegan: boolean;
  price: number;
 };
-type CitirLezzet = {
+type OzelLezzet = {
  id: string;
  name: string;
  image: string;
@@ -43,7 +42,8 @@ type Icecek = {
  price: number;
 };
 const Categories = async () => {
- const { pizzalar, panPizzalar, citirLezzetler, icecekler } = await getData();
+ const categories = await getData();
+ const { pizzalar, panPizzalar, ozelLezzetler, icecekler } = categories;
  return (
   <>
    <Link href={'categories/pizzalar'}>
@@ -81,11 +81,11 @@ const Categories = async () => {
    <div>
     <section className="flex flex-row">
      <div className="flex-shrink-0">
-      <h3 className="text-3xl text-white">Ekstra Lezzetler</h3>
+      <h3 className="text-3xl text-white">Ozel Lezzetler</h3>
      </div>
      <div className="ms-5 mb-1 w-full border-b-2 border-white"></div>
     </section>
-    {citirLezzetler.slice(0, 3).map((citirLezzet: CitirLezzet) => {
+    {ozelLezzetler.slice(0, 3).map((citirLezzet: OzelLezzet) => {
      return <div key={citirLezzet.id}>{citirLezzet.name}</div>;
     })}
    </div>
