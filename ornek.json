@@ -1,456 +1,448 @@
 {
- "pizzalar": [
-  {
-   "category": "ekoterra",
-   "id": "1ea5200d-8379-42fa-a022-a0bf8449115d",
-   "name": "Sucuklu",
-   "showcase": "https://dwfdzxoxxagos.cloudfront.net/images/products/web_listeleme_dopdolu_sucuklu_2707.jpg",
-   "image": "https://dwfdzxoxxagos.cloudfront.net/images/products/web_detay_dopdolu_sucuklu.jpg",
-   "ingredients": ["Mozarella Peyniri", "Sucuk"],
-   "isVegan": false,
-   "size": [
-    {
-     "size": "Küçük",
-     "price": 109.0,
-     "diameter": 22
-    },
-    {
-     "size": "Orta",
-     "price": 139.0,
-     "diameter": 26
-    },
-    {
-     "size": "Büyük",
-     "price": 199.0,
-     "diameter": 34
-    }
-   ]
-  },
-  {
-   "category": "ekoterra",
-   "id": "1ea5200d-8379-42fa-a022-a0bf8449315d",
-   "name": "Margarita",
-   "showcase": "https://dwfdzxoxxagos.cloudfront.net/images/products/web_listeleme_margarita_2707.jpg",
-   "image": "https://dwfdzxoxxagos.cloudfront.net/images/products/web_detay_margarita.jpg",
-   "ingredients": ["Mozarella Peyniri", "Domates"],
-   "isVegan": true,
-   "size": [
-    {
-     "size": "Küçük",
-     "price": 109.0,
-     "diameter": 22
-    },
-    {
-     "size": "Orta",
-     "price": 139.0,
-     "diameter": 26
-    },
-    {
-     "size": "Büyük",
-     "price": 199.0,
-     "diameter": 34
-    }
-   ]
-  },
-  {
-   "category": "ekoterra",
-   "id": "1ea5200d-8379-42fa-a022-a0bf8449315d",
-   "name": "Sosisli",
-   "showcase": "https://dwfdzxoxxagos.cloudfront.net/images/products/web_listeleme_dopdolusosisli_2707.jpg",
-   "image": "https://dwfdzxoxxagos.cloudfront.net/images/products/web_detay_dopdol_sosisli.jpg",
-   "ingredients": ["Mozarella Peyniri", "Sosis", "Pizza Sosu"],
-   "isVegan": false,
-   "size": [
-    {
-     "size": "Küçük",
-     "price": 109.0,
-     "diameter": 22
-    },
-    {
-     "size": "Orta",
-     "price": 139.0,
-     "diameter": 26
-    },
-    {
-     "size": "Büyük",
-     "price": 199.0,
-     "diameter": 34
-    }
-   ]
-  },
-  {
-   "category": "ekoterra",
-   "id": "1ea5200d-8379-43fa-a022-a0bf8449315d",
-   "name": "Sosisli Mısırlı",
-   "showcase": "https://dwfdzxoxxagos.cloudfront.net/images/products/sosisli_misirli_app_listeleme.png",
-   "image": "https://dwfdzxoxxagos.cloudfront.net/images/products/sosisli_misirli_app_detay.png",
-   "ingredients": ["Mozarella Peyniri", "Sosis", "Mısır"],
-   "isVegan": false,
-   "size": [
-    {
-     "size": "Küçük",
-     "price": 109.0,
-     "diameter": 22
-    },
-    {
-     "size": "Orta",
-     "price": 139.0,
-     "diameter": 26
-    },
-    {
-     "size": "Büyük",
-     "price": 199.0,
-     "diameter": 34
-    }
-   ]
-  },
-  {
-   "category": "ekoterra",
-   "id": "31a3100d-8379-42fa-a022-a0bf8449315d",
-   "name": "Salamlı Zeytinli",
-   "showcase": "https://dwfdzxoxxagos.cloudfront.net/images/products/web_listeleme_dopdoluikili_2707.jpg",
-   "image": "https://dwfdzxoxxagos.cloudfront.net/images/products/web_detay_dopdoluikili.jpg",
-   "ingredients": ["Mozarella Peyniri", "Pizza Sosu", "Salam", "Siyah Zeytin"],
-   "isVegan": false,
-   "size": [
-    {
-     "size": "Küçük",
-     "price": 109.0,
-     "diameter": 22
-    },
-    {
-     "size": "Orta",
-     "price": 139.0,
-     "diameter": 26
-    },
-    {
-     "size": "Büyük",
-     "price": 199.0,
-     "diameter": 34
-    }
-   ]
-  },
-  {
-   "category": "favoriterra",
-   "id": "31a3100c-8179-42fa-a022-a0bf8449315d",
-   "name": "Efsane 5Li",
-   "showcase": "https://dwfdzxoxxagos.cloudfront.net/images/products/weblisteleme_efsane5li_bigpixel.jpg",
-   "image": "https://dwfdzxoxxagos.cloudfront.net/images/products/web_detay_efsane5li.jpg",
-   "ingredients": [
-    "Mozarella Peyniri",
-    "Sucuk",
-    "Sosis",
-    "Mantar",
-    "Yeşil Biber",
-    "Mısır"
-   ],
-   "isVegan": false,
-   "size": [
-    {
-     "size": "Küçük",
-     "price": 114.0,
-     "diameter": 22
-    },
-    {
-     "size": "Orta",
-     "price": 147.0,
-     "diameter": 26
-    },
-    {
-     "size": "Büyük",
-     "price": 209.0,
-     "diameter": 34
-    }
-   ]
-  },
-  {
-   "category": "favoriterra",
-   "id": "31a3100c-8179-6969-a022-a0bf8449315d",
-   "name": "Akdenizli",
-   "showcase": "https://dwfdzxoxxagos.cloudfront.net/images/products/web_listeleme_akdenizli_2707.jpg",
-   "image": "https://dwfdzxoxxagos.cloudfront.net/images/products/web_detay_akdenizli.jpg",
-   "ingredients": [
-    "Mozarella Peyniri",
-    "Beyaz Peynir",
-    "Küp Domates",
-    "Siyah Zeytin",
-    "Kekik"
-   ],
-   "isVegan": true,
-   "size": [
-    {
-     "size": "Küçük",
-     "price": 114.0,
-     "diameter": 22
-    },
-    {
-     "size": "Orta",
-     "price": 147.0,
-     "diameter": 26
-    },
-    {
-     "size": "Büyük",
-     "price": 209.0,
-     "diameter": 34
-    }
-   ]
-  },
-  {
-   "category": "favoriterra",
-   "id": "31a31031-8179-6969-a031-a0bf8449315d",
-   "name": "Partiterra",
-   "showcase": "https://dwfdzxoxxagos.cloudfront.net/images/products/web_listeleme_partiterra_2707.jpg",
-   "image": "https://dwfdzxoxxagos.cloudfront.net/images/products/web_detay_partiterra.jpg",
-   "ingredients": [
-    "Mozarella Peyniri",
-    "Sucuk",
-    "Salam",
-    "Mantar",
-    "Yeşil Biber",
-    "Siyah Zeytin",
-    "Kırmızı Köz Biber",
-    "Mısır"
-   ],
-   "isVegan": false,
-   "size": [
-    {
-     "size": "Küçük",
-     "price": 114.0,
-     "diameter": 22
-    },
-    {
-     "size": "Orta",
-     "price": 147.0,
-     "diameter": 26
-    },
-    {
-     "size": "Büyük",
-     "price": 209.0,
-     "diameter": 34
-    }
-   ]
-  },
-  {
-   "category": "favoriterra",
-   "id": "31a31031-8131-6969-a031-a0bf8319315d",
-   "name": "Süper Sucuklu",
-   "showcase": "https://dwfdzxoxxagos.cloudfront.net/images/products/super_sucuklu_2023.jpg",
-   "image": "https://dwfdzxoxxagos.cloudfront.net/images/products/super_sucuklu_2023.jpg",
-   "ingredients": [
-    "Mozarella Peyniri",
-    "Küp Sucuk",
-    "Siyah Zeytin",
-    "Kırmızı Köz Biber",
-    "Kekik"
-   ],
-   "isVegan": false,
-   "size": [
-    {
-     "size": "Küçük",
-     "price": 114.0,
-     "diameter": 22
-    },
-    {
-     "size": "Orta",
-     "price": 147.0,
-     "diameter": 26
-    },
-    {
-     "size": "Büyük",
-     "price": 209.0,
-     "diameter": 34
-    }
-   ]
-  },
-  {
-   "category": "favoriterra",
-   "id": "31a31031-8131-2222-b031-a0bf8319315d",
-   "name": "Üç Etli",
-   "showcase": "https://dwfdzxoxxagos.cloudfront.net/images/products/ucetli_app_listeleme.png",
-   "image": "https://dwfdzxoxxagos.cloudfront.net/images/products/ucetli_app_detay.png",
-   "ingredients": [
-    "Mozarella Peyniri",
-    "Sucuk",
-    "Jambon",
-    "Sosis",
-    "Siyah Zeytin",
-    "Kırmızı Köz Biber",
-    "Mısır"
-   ],
-   "isVegan": false,
-   "size": [
-    {
-     "size": "Küçük",
-     "price": 114.0,
-     "diameter": 22
-    },
-    {
-     "size": "Orta",
-     "price": 147.0,
-     "diameter": 26
-    },
-    {
-     "size": "Büyük",
-     "price": 209.0,
-     "diameter": 34
-    }
-   ]
-  }
- ],
- "panPizzalar": [
-  {
-   "id": "fa8ea016-7774-44cc-9b14-96f6a1a3d440",
-   "name": "Pan Pizza Karışık",
-   "image": "https://dwfdzxoxxagos.cloudfront.net/images/products/pan_karisik.png",
-   "ingredients": [
-    "Pizza Sosu",
-    "Mozzarella Peyniri",
-    "Dilim Sucuk",
-    "Sosis",
-    "Siyah Zeytin",
-    "Yeşil Biber"
-   ],
-   "isVegan": false,
-   "price": 59.9
-  },
-  {
-   "id": "d3d86abb-7183-4eee-a23c-8e09a1831180",
-   "name": "Pan Pizza Sucuklu",
-   "image": "https://dwfdzxoxxagos.cloudfront.net/images/products/pan_sucuklu.png",
-   "ingredients": [
-    "Pizza Sosu",
-    "Mozzarella Peyniri",
-    "Dilim Sucuk",
-    "Yeşil Biber",
-    "Domates"
-   ],
-   "isVegan": false,
-   "price": 59.9
-  },
-  {
-   "id": "d414b59e-24b6-4a82-869c-01215eddc4ba",
-   "name": "Pan Pizza Vegi",
-   "image": "https://dwfdzxoxxagos.cloudfront.net/images/products/pan_vegi.png",
-   "ingredients": [
-    "Pizza Sosu",
-    "Mozzarella Peyniri",
-    "Beyaz Peynir",
-    "Fırınlanmış Patlıcan",
-    "Kırmızı Köz Biber",
-    "Siyah Zeytin",
-    "Yeşil Biber"
-   ],
-   "isVegan": true,
-   "price": 59.9
-  }
- ],
- "citirLezzetler": [
-  {
-   "id": "fa8bb316-7774-44cc-9b14-96f6a1a3d440",
-   "name": "Pizzadürüm Barbekü Tavuklu",
-   "image": "https://dwfdzxoxxagos.cloudfront.net/images/products/pizzadurum_barbeku_tavuklu.png",
-   "isVegan": false,
-   "price": 59.9
-  },
-  {
-   "id": "na8bb316-7774-34cc-9b14-86f6a1a3d440",
-   "name": "Pizzadürüm Et Dönerli",
-   "image": "https://dwfdzxoxxagos.cloudfront.net/images/products/pizzadurum_et_donerli.png",
-   "isVegan": false,
-   "price": 59.9
-  },
-  {
-   "id": "na31b316-7774-34cc-9b14-86f611a3d440",
-   "name": "Pizzadürüm Karışık",
-   "image": "https://dwfdzxoxxagos.cloudfront.net/images/products/pizzadurum_karisik.png",
-   "isVegan": false,
-   "price": 59.9
-  },
-  {
-   "id": "zx31b316-7774-34cc-9b14-86f611a3d441",
-   "name": "Tavuk Kovası",
-   "image": "https://dwfdzxoxxagos.cloudfront.net/images/products/00_tavuk_kova_308.png",
-   "isVegan": false,
-   "price": 99.0
-  },
-  {
-   "id": "zb31b316-7774-14bc-9b14-86f611a3d441",
-   "name": "Çıtır Kutusu",
-   "image": "https://dwfdzxoxxagos.cloudfront.net/images/products/AppUrun_EkonomikKova_menu_listeleme.png",
-   "isVegan": false,
-   "price": 52.0
-  },
-  {
-   "id": "zb31b919-7774-14bc-9b14-86f611a3d441",
-   "name": "10Lu Çıtır Tavuk Topları",
-   "image": "https://dwfdzxoxxagos.cloudfront.net/images/products/10lu_citir_tavuk_toplari.png",
-   "isVegan": false,
-   "price": 25.0
-  },
-  {
-   "id": "zb319919-7774-14bc-0000-86f611a3d441",
-   "name": "Sarımsaklı Ekmek",
-   "image": "https://dwfdzxoxxagos.cloudfront.net/images/products/00_citir_sarimsakli_ekmek.png",
-   "isVegan": true,
-   "price": 29.0
-  },
-  {
-   "id": "zb319919-1111-14bc-0000-86f611a3d441",
-   "name": "10Lu Soğan Halkası",
-   "image": "https://dwfdzxoxxagos.cloudfront.net/images/products/10luhalka.png",
-   "isVegan": true,
-   "price": 25.0
-  },
-  {
-   "id": "31313131-1111-3131-3131-86f611a3d431",
-   "name": "Patates Kovası",
-   "image": "https://dwfdzxoxxagos.cloudfront.net/images/products/00_patates_kovasi_1308.png",
-   "isVegan": true,
-   "price": 72.0
-  }
- ],
- "icecekler": [
-  {
-   "id": "fa8bb322-2221-44cc-9b14-96f6a1a3d440",
-   "name": "Limonata",
-   "image": "https://dwfdzxoxxagos.cloudfront.net/images/products/limonata2.jpg",
-   "price": 21.0
-  },
-  {
-   "id": "fa8bb987-2221-44cc-9b14-96f6a1a3d499",
-   "name": "Kutu Kola Zero",
-   "image": "https://dwfdzxoxxagos.cloudfront.net/images/products/WEB0_Kutu_Coca_Cola_Sekersiz.png",
-   "price": 32.0
-  },
-  {
-   "id": "fa8bb900-1151-44cc-9b14-96f6a1a3d499",
-   "name": "Kutu Kola",
-   "image": "https://dwfdzxoxxagos.cloudfront.net/images/products/000_icecek_3.png",
-   "price": 32.0
-  },
-  {
-   "id": "fa843987-0921-44cc-9b14-96f6a1a3d499",
-   "name": "Kutu Sprite",
-   "image": "https://dwfdzxoxxagos.cloudfront.net/images/products/000_icecek_4.png",
-   "price": 32.0
-  },
-  {
-   "id": "fa843900-5221-44cc-9b14-96f6a1a3d499",
-   "name": "Kutu Cappy Şeftali",
-   "image": "https://dwfdzxoxxagos.cloudfront.net/images/products/000_icecek_018.png",
-   "price": 32.0
-  },
-  {
-   "id": "fafafaza-5221-44cc-9b14-96f6a1a3d499",
-   "name": "Su",
-   "image": "https://dwfdzxoxxagos.cloudfront.net/images/products/000_icecek_9.png",
-   "price": 10.0
-  },
-  {
-   "id": "fafafaza-6666-3333-1010-96f6a1a3d499",
-   "name": "Maden Suyu",
-   "image": "https://dwfdzxoxxagos.cloudfront.net/images/products/000_icecek_8.png",
-   "price": 12.0
-  }
- ]
+ "categories": {
+  "pizzalar": [
+   {
+    "id": "1ea5200d-8379-42fa-a022-a0bf8449115d",
+    "name": "Sucuklu",
+    "showcase": "https://dwfdzxoxxagos.cloudfront.net/images/products/web_listeleme_dopdolu_sucuklu_2707.jpg",
+    "image": "https://dwfdzxoxxagos.cloudfront.net/images/products/web_detay_dopdolu_sucuklu.jpg",
+    "ingredients": ["Mozarella Peyniri", "Sucuk"],
+    "isVegan": false,
+    "size": [
+     {
+      "size": "Küçük",
+      "price": 109.0,
+      "diameter": 22
+     },
+     {
+      "size": "Orta",
+      "price": 139.0,
+      "diameter": 26
+     },
+     {
+      "size": "Büyük",
+      "price": 199.0,
+      "diameter": 34
+     }
+    ]
+   },
+   {
+    "id": "1ea5200d-8379-42fa-a022-a0bf8449315d",
+    "name": "Margarita",
+    "showcase": "https://dwfdzxoxxagos.cloudfront.net/images/products/web_listeleme_margarita_2707.jpg",
+    "image": "https://dwfdzxoxxagos.cloudfront.net/images/products/web_detay_margarita.jpg",
+    "ingredients": ["Mozarella Peyniri", "Domates"],
+    "isVegan": true,
+    "size": [
+     {
+      "size": "Küçük",
+      "price": 109.0,
+      "diameter": 22
+     },
+     {
+      "size": "Orta",
+      "price": 139.0,
+      "diameter": 26
+     },
+     {
+      "size": "Büyük",
+      "price": 199.0,
+      "diameter": 34
+     }
+    ]
+   },
+   {
+    "id": "1ea5200d-8379-42fa-a022-a0bf8449313d",
+    "name": "Sosisli",
+    "showcase": "https://dwfdzxoxxagos.cloudfront.net/images/products/web_listeleme_dopdolusosisli_2707.jpg",
+    "image": "https://dwfdzxoxxagos.cloudfront.net/images/products/web_detay_dopdol_sosisli.jpg",
+    "ingredients": ["Mozarella Peyniri", "Sosis", "Pizza Sosu"],
+    "isVegan": false,
+    "size": [
+     {
+      "size": "Küçük",
+      "price": 109.0,
+      "diameter": 22
+     },
+     {
+      "size": "Orta",
+      "price": 139.0,
+      "diameter": 26
+     },
+     {
+      "size": "Büyük",
+      "price": 199.0,
+      "diameter": 34
+     }
+    ]
+   },
+   {
+    "id": "1ea5200d-8379-43fa-a022-a0bf8449315d",
+    "name": "Sosisli Mısırlı",
+    "showcase": "https://dwfdzxoxxagos.cloudfront.net/images/products/sosisli_misirli_app_listeleme.png",
+    "image": "https://dwfdzxoxxagos.cloudfront.net/images/products/sosisli_misirli_app_detay.png",
+    "ingredients": ["Mozarella Peyniri", "Sosis", "Mısır"],
+    "isVegan": false,
+    "size": [
+     {
+      "size": "Küçük",
+      "price": 109.0,
+      "diameter": 22
+     },
+     {
+      "size": "Orta",
+      "price": 139.0,
+      "diameter": 26
+     },
+     {
+      "size": "Büyük",
+      "price": 199.0,
+      "diameter": 34
+     }
+    ]
+   },
+   {
+    "id": "31a3100d-8379-42fa-a022-a0bf8449315d",
+    "name": "Salamlı Zeytinli",
+    "showcase": "https://dwfdzxoxxagos.cloudfront.net/images/products/web_listeleme_dopdoluikili_2707.jpg",
+    "image": "https://dwfdzxoxxagos.cloudfront.net/images/products/web_detay_dopdoluikili.jpg",
+    "ingredients": ["Mozarella Peyniri", "Pizza Sosu", "Salam", "Siyah Zeytin"],
+    "isVegan": false,
+    "size": [
+     {
+      "size": "Küçük",
+      "price": 109.0,
+      "diameter": 22
+     },
+     {
+      "size": "Orta",
+      "price": 139.0,
+      "diameter": 26
+     },
+     {
+      "size": "Büyük",
+      "price": 199.0,
+      "diameter": 34
+     }
+    ]
+   },
+   {
+    "id": "31a3100c-8179-42fa-a022-a0bf8449315d",
+    "name": "Efsane 5Li",
+    "showcase": "https://dwfdzxoxxagos.cloudfront.net/images/products/weblisteleme_efsane5li_bigpixel.jpg",
+    "image": "https://dwfdzxoxxagos.cloudfront.net/images/products/web_detay_efsane5li.jpg",
+    "ingredients": [
+     "Mozarella Peyniri",
+     "Sucuk",
+     "Sosis",
+     "Mantar",
+     "Yeşil Biber",
+     "Mısır"
+    ],
+    "isVegan": false,
+    "size": [
+     {
+      "size": "Küçük",
+      "price": 114.0,
+      "diameter": 22
+     },
+     {
+      "size": "Orta",
+      "price": 147.0,
+      "diameter": 26
+     },
+     {
+      "size": "Büyük",
+      "price": 209.0,
+      "diameter": 34
+     }
+    ]
+   },
+   {
+    "id": "31a3100c-8179-6969-a022-a0bf8449315d",
+    "name": "Akdenizli",
+    "showcase": "https://dwfdzxoxxagos.cloudfront.net/images/products/web_listeleme_akdenizli_2707.jpg",
+    "image": "https://dwfdzxoxxagos.cloudfront.net/images/products/web_detay_akdenizli.jpg",
+    "ingredients": [
+     "Mozarella Peyniri",
+     "Beyaz Peynir",
+     "Küp Domates",
+     "Siyah Zeytin",
+     "Kekik"
+    ],
+    "isVegan": true,
+    "size": [
+     {
+      "size": "Küçük",
+      "price": 114.0,
+      "diameter": 22
+     },
+     {
+      "size": "Orta",
+      "price": 147.0,
+      "diameter": 26
+     },
+     {
+      "size": "Büyük",
+      "price": 209.0,
+      "diameter": 34
+     }
+    ]
+   },
+   {
+    "id": "31a31031-8179-6969-a031-a0bf8449315d",
+    "name": "Partiterra",
+    "showcase": "https://dwfdzxoxxagos.cloudfront.net/images/products/web_listeleme_partiterra_2707.jpg",
+    "image": "https://dwfdzxoxxagos.cloudfront.net/images/products/web_detay_partiterra.jpg",
+    "ingredients": [
+     "Mozarella Peyniri",
+     "Sucuk",
+     "Salam",
+     "Mantar",
+     "Yeşil Biber",
+     "Siyah Zeytin",
+     "Kırmızı Köz Biber",
+     "Mısır"
+    ],
+    "isVegan": false,
+    "size": [
+     {
+      "size": "Küçük",
+      "price": 114.0,
+      "diameter": 22
+     },
+     {
+      "size": "Orta",
+      "price": 147.0,
+      "diameter": 26
+     },
+     {
+      "size": "Büyük",
+      "price": 209.0,
+      "diameter": 34
+     }
+    ]
+   },
+   {
+    "id": "31a31031-8131-6969-a031-a0bf8319315d",
+    "name": "Süper Sucuklu",
+    "showcase": "https://dwfdzxoxxagos.cloudfront.net/images/products/super_sucuklu_2023.jpg",
+    "image": "https://dwfdzxoxxagos.cloudfront.net/images/products/super_sucuklu_2023.jpg",
+    "ingredients": [
+     "Mozarella Peyniri",
+     "Küp Sucuk",
+     "Siyah Zeytin",
+     "Kırmızı Köz Biber",
+     "Kekik"
+    ],
+    "isVegan": false,
+    "size": [
+     {
+      "size": "Küçük",
+      "price": 114.0,
+      "diameter": 22
+     },
+     {
+      "size": "Orta",
+      "price": 147.0,
+      "diameter": 26
+     },
+     {
+      "size": "Büyük",
+      "price": 209.0,
+      "diameter": 34
+     }
+    ]
+   },
+   {
+    "id": "31a31031-8131-2222-b031-a0bf8319315d",
+    "name": "Üç Etli",
+    "showcase": "https://dwfdzxoxxagos.cloudfront.net/images/products/ucetli_app_listeleme.png",
+    "image": "https://dwfdzxoxxagos.cloudfront.net/images/products/ucetli_app_detay.png",
+    "ingredients": [
+     "Mozarella Peyniri",
+     "Sucuk",
+     "Jambon",
+     "Sosis",
+     "Siyah Zeytin",
+     "Kırmızı Köz Biber",
+     "Mısır"
+    ],
+    "isVegan": false,
+    "size": [
+     {
+      "size": "Küçük",
+      "price": 114.0,
+      "diameter": 22
+     },
+     {
+      "size": "Orta",
+      "price": 147.0,
+      "diameter": 26
+     },
+     {
+      "size": "Büyük",
+      "price": 209.0,
+      "diameter": 34
+     }
+    ]
+   }
+  ],
+  "panPizzalar": [
+   {
+    "id": "fa8ea016-7774-44cc-9b14-96f6a1a3d440",
+    "name": "Pan Pizza Karışık",
+    "image": "https://dwfdzxoxxagos.cloudfront.net/images/products/pan_karisik.png",
+    "ingredients": [
+     "Pizza Sosu",
+     "Mozzarella Peyniri",
+     "Dilim Sucuk",
+     "Sosis",
+     "Siyah Zeytin",
+     "Yeşil Biber"
+    ],
+    "isVegan": false,
+    "price": 59.9
+   },
+   {
+    "id": "d3d86abb-7183-4eee-a23c-8e09a1831180",
+    "name": "Pan Pizza Sucuklu",
+    "image": "https://dwfdzxoxxagos.cloudfront.net/images/products/pan_sucuklu.png",
+    "ingredients": [
+     "Pizza Sosu",
+     "Mozzarella Peyniri",
+     "Dilim Sucuk",
+     "Yeşil Biber",
+     "Domates"
+    ],
+    "isVegan": false,
+    "price": 59.9
+   },
+   {
+    "id": "d414b59e-24b6-4a82-869c-01215eddc4ba",
+    "name": "Pan Pizza Vegi",
+    "image": "https://dwfdzxoxxagos.cloudfront.net/images/products/pan_vegi.png",
+    "ingredients": [
+     "Pizza Sosu",
+     "Mozzarella Peyniri",
+     "Beyaz Peynir",
+     "Fırınlanmış Patlıcan",
+     "Kırmızı Köz Biber",
+     "Siyah Zeytin",
+     "Yeşil Biber"
+    ],
+    "isVegan": true,
+    "price": 59.9
+   }
+  ],
+  "ozelLezzetler": [
+   {
+    "id": "fa8bb316-7774-44cc-9b14-96f6a1a3d440",
+    "name": "Pizzadürüm Barbekü Tavuklu",
+    "image": "https://dwfdzxoxxagos.cloudfront.net/images/products/pizzadurum_barbeku_tavuklu.png",
+    "isVegan": false,
+    "price": 59.9
+   },
+   {
+    "id": "na8bb316-7774-34cc-9b14-86f6a1a3d440",
+    "name": "Pizzadürüm Et Dönerli",
+    "image": "https://dwfdzxoxxagos.cloudfront.net/images/products/pizzadurum_et_donerli.png",
+    "isVegan": false,
+    "price": 59.9
+   },
+   {
+    "id": "na31b316-7774-34cc-9b14-86f611a3d440",
+    "name": "Pizzadürüm Karışık",
+    "image": "https://dwfdzxoxxagos.cloudfront.net/images/products/pizzadurum_karisik.png",
+    "isVegan": false,
+    "price": 59.9
+   },
+   {
+    "id": "zx31b316-7774-34cc-9b14-86f611a3d441",
+    "name": "Tavuk Kovası",
+    "image": "https://dwfdzxoxxagos.cloudfront.net/images/products/00_tavuk_kova_308.png",
+    "isVegan": false,
+    "price": 99.0
+   },
+   {
+    "id": "zb31b316-7774-14bc-9b14-86f611a3d441",
+    "name": "Çıtır Kutusu",
+    "image": "https://dwfdzxoxxagos.cloudfront.net/images/products/AppUrun_EkonomikKova_menu_listeleme.png",
+    "isVegan": false,
+    "price": 52.0
+   },
+   {
+    "id": "zb31b919-7774-14bc-9b14-86f611a3d441",
+    "name": "10Lu Çıtır Tavuk Topları",
+    "image": "https://dwfdzxoxxagos.cloudfront.net/images/products/10lu_citir_tavuk_toplari.png",
+    "isVegan": false,
+    "price": 25.0
+   },
+   {
+    "id": "zb319919-7774-14bc-0000-86f611a3d441",
+    "name": "Sarımsaklı Ekmek",
+    "image": "https://dwfdzxoxxagos.cloudfront.net/images/products/00_citir_sarimsakli_ekmek.png",
+    "isVegan": true,
+    "price": 29.0
+   },
+   {
+    "id": "zb319919-1111-14bc-0000-86f611a3d441",
+    "name": "10Lu Soğan Halkası",
+    "image": "https://dwfdzxoxxagos.cloudfront.net/images/products/10luhalka.png",
+    "isVegan": true,
+    "price": 25.0
+   },
+   {
+    "id": "31313131-1111-3131-3131-86f611a3d431",
+    "name": "Patates Kovası",
+    "image": "https://dwfdzxoxxagos.cloudfront.net/images/products/00_patates_kovasi_1308.png",
+    "isVegan": true,
+    "price": 72.0
+   }
+  ],
+  "icecekler": [
+   {
+    "id": "fa8bb322-2221-44cc-9b14-96f6a1a3d440",
+    "name": "Limonata",
+    "image": "https://dwfdzxoxxagos.cloudfront.net/images/products/limonata2.jpg",
+    "price": 21.0
+   },
+   {
+    "id": "fa8bb987-2221-44cc-9b14-96f6a1a3d499",
+    "name": "Kutu Kola Zero",
+    "image": "https://dwfdzxoxxagos.cloudfront.net/images/products/WEB0_Kutu_Coca_Cola_Sekersiz.png",
+    "price": 32.0
+   },
+   {
+    "id": "fa8bb900-1151-44cc-9b14-96f6a1a3d499",
+    "name": "Kutu Kola",
+    "image": "https://dwfdzxoxxagos.cloudfront.net/images/products/000_icecek_3.png",
+    "price": 32.0
+   },
+   {
+    "id": "fa843987-0921-44cc-9b14-96f6a1a3d499",
+    "name": "Kutu Sprite",
+    "image": "https://dwfdzxoxxagos.cloudfront.net/images/products/000_icecek_4.png",
+    "price": 32.0
+   },
+   {
+    "id": "fa843900-5221-44cc-9b14-96f6a1a3d499",
+    "name": "Kutu Cappy Şeftali",
+    "image": "https://dwfdzxoxxagos.cloudfront.net/images/products/000_icecek_018.png",
+    "price": 32.0
+   },
+   {
+    "id": "fafafaza-5221-44cc-9b14-96f6a1a3d499",
+    "name": "Su",
+    "image": "https://dwfdzxoxxagos.cloudfront.net/images/products/000_icecek_9.png",
+    "price": 10.0
+   },
+   {
+    "id": "fafafaza-6666-3333-1010-96f6a1a3d499",
+    "name": "Maden Suyu",
+    "image": "https://dwfdzxoxxagos.cloudfront.net/images/products/000_icecek_8.png",
+    "price": 12.0
+   }
+  ]
+ }
 }

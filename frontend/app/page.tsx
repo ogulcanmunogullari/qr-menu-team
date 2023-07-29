@@ -6,7 +6,7 @@ export default function Home() {
  return (
   <main className="w-full h-full grid grid-rows-[5fr_6fr]">
    <section className="text-white grid place-items-center">
-    <div className="flex flex-col gap-2 items-center text-4xl">
+    <div className="flex flex-col gap-2 items-center w-20 text-4xl">
      <Image src={FavIcon} alt={''}></Image>
      <h1>Pizza</h1>
     </div>
