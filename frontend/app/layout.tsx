@@ -22,7 +22,7 @@ export default function RootLayout({
   <html lang="tr">
    <body
     className={`${roboto.className} h-screen grid place-items-center sm:bg-gradient-to-br from-[#f38896] to-[#65c5ff]`}>
-    <main className="bg-[#100f1f] filter-none p-5  h-full w-full sm:w-[414px] sm:h-[800px] sm:drop-shadow-2xl sm:rounded-3xl">
+    <main className="bg-[#100f1f] filter-none p-5  h-full w-full sm:w-[414px] sm:h-[800px] sm:drop-shadow-2xl sm:rounded-3xl overflow-y-scroll">
      {children}
     </main>
    </body>
